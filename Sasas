@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIKE - Graphic Design Studio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .btn {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #222;
+            color: #aaa;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>LIKE</h1>
+    <p>Designs You'll Love</p>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>At LIKE, we transform ideas into stunning visuals that connect and inspire.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <p>• Logo Design<br>
+       • Branding Kits<br>
+       • Social Media Graphics<br>
+       • Custom Illustrations
+    </p>
+    <a href="#contact" class="btn">Get a Free Quote</a>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email us at: hello@likegraphics.com</p>
+</section>
+
+<footer>
+    &copy; 2025 LIKE Graphic Design Studio. All rights reserved.
+</footer>
+
+</body>
+</html>
